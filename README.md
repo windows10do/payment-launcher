@@ -18,16 +18,15 @@ A simple Windows app that lets you add payment entries and view them in a table.
 ---
 
 ## 📦 How to Use
-
 1. Download and unzip the folder  
-2. Double-click `payment_launcher.exe`  
-3. Click **Add Pay**  
+2. Double-click `app.exe`  
+3. Click **Add Pay** 
 4. Fill in your details and click **Pay**  
-5. Your entry appears in the table
+5. Your entry appearsp in the table
 
 ---
 
-## ⚠️ Important
+## ⚠️ Importan
 
 > **Note!! When you add pay, is undeletable!**  
 > Once saved, entries cannot be removed from the log.
